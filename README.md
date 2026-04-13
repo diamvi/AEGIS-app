@@ -27,7 +27,7 @@ Stay informed with a real-time feed of safety updates and health advisories aggr
 
 ### Actionable Recommendations
 
-Receive personalized, AI-generated guidance—ranging from immediate emergency actions to community prevention strategies—designed to keep you and your community safe.
+Receive personalized, AI-generated guidance; ranging from immediate emergency actions to community prevention strategies—designed to keep you and your community safe.
 
 ---
 
