@@ -12,7 +12,7 @@
 ## Here are some of the features that help local government officials and eagle-eyed residents stay one step ahead of outbreaks:
 ### Risk Assessment
 
-Dynamically evaluates the risk of outbreaks in your immediate area by analyzing environmental factors like stagnant water, temperature, humidity, and historical health data, all with the help of ✨ AEGIS Intelligence (AI for short).
+Dynamically evaluates the risk of outbreaks in your immediate area by analyzing environmental factors like stagnant water, temperature, humidity, and historical health data, all with the help of ✨ AI.
 
 ### Risk Mapping
 
