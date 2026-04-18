@@ -1,4 +1,7 @@
-Download link below
+### The download link is at the bottom of this README.
+
+---
+
 <picture style="width: 200px; height: auto;">
   <source media="(prefers-color-scheme: dark)" srcset="/logo-dark.png?raw=true">
   <img alt="A shield portraying Medusa with the wordmark AEGIS" src="/logo-light.png?raw=true" style="width: 400px; height: auto;">
